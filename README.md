@@ -1,7 +1,7 @@
 # Test Rusanov
 
 
-## Instalation
+## Installation
 ```
 npm install
 ```
@@ -13,11 +13,10 @@ npm run dev
 
 ## Production
 ```
-npm run build
+npm run build //then open in browser http://localhost:5173/
 ```
 
 ## To see web
 ```
-npm run preview
+npm run preview //then open in browser http://localhost:4173/
 ```
-and then open in browser http://localhost:4173/
